@@ -6,22 +6,22 @@ This repository contains a data analysis project focusing on the mental health o
 
 **Key Findings**
 
-   Depression Trends:
+   #Depression Trends: 
         Identified a higher risk of depression in the first year, gradually decreasing over the subsequent 10 years.
 
-   Stress Predictors:
+   #Stress Predictors: 
         Explored the impact of acculturative stress and social connectedness on depression.
 
-  Suicidal Thoughts:
+  #Suicidal Thoughts: 
         Found that suicidal thoughts were more prevalent among international students.
 
-   Correlation Analysis:
+   #Correlation Analysis: 
         Investigated potential correlations between age and mental health metrics.
 
 **Project Highlights**
 
-   SQL Exploration:
+   #SQL Exploration: 
        Utilized SQL queries for in-depth exploration of the dataset.
 
-   Comprehensive Analysis:
+   #Comprehensive Analysis: 
         Explored various factors influencing mental health, including age and stay duration.
